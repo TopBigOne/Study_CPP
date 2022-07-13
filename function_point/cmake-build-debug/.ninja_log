@@ -1,0 +1,4 @@
+# ninja log v5
+2	255	1657714983557495885	CMakeFiles/function_point.dir/main.cpp.o	d5e2886652beb05
+255	287	1657714983592112967	function_point	f48ba937ed0185f3
+2	246	1657714983548788031	CMakeFiles/function_point.dir/func_callback.cpp.o	7bb5f6ab8139a79b
